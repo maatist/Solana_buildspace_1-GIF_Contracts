@@ -13,4 +13,4 @@ cluster = "Localnet"
 wallet = "/Users/matiseto/.config/solana/id.json"
 
 [scripts]
-test = "yarn run mocha -t 1000000 tests/"
+test = "node tests/myepicproject.js"
