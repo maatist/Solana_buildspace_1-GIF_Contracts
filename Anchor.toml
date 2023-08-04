@@ -2,14 +2,14 @@
 seeds = false
 skip-lint = false
 
-[programs.localnet]
-myepicproject = "8ftfAnTMo65PV8x4KcjPsGerL5yrmotcBiS6pEWAfJWJ"
+[programs.devnet]
+myepicproject = "9uJeg9wfWjti7chiHsJS7M289JsyxtjHCpAGFGf4amRt"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "/Users/matiseto/.config/solana/id.json"
 
 [scripts]
